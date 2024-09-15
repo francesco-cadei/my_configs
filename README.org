@@ -178,6 +178,17 @@ inside emacs with =C-x C-d=.
 
 
 *** languages
+**** tex
+#+begin_src bash
+  sudo apt install \
+       texlive \
+       texlive-pictures \
+       texlive-publisher \
+       texlive-pictures \
+       dvipng
+#+end_src
+
+
 **** c
 #+begin_src bash
   sudo apt install \
@@ -195,14 +206,17 @@ inside emacs with =C-x C-d=.
 #+end_src
 
 
-**** tex
+**** python
 #+begin_src bash
-  sudo apt install \
-       texlive \
-       texlive-pictures \
-       texlive-publisher \
-       texlive-pictures \
-       dvipng
+  sudo apt install pipx
+  pipx install python-lsp-server
+#+end_src
+
+
+**** mp
+#+begin_src bash
+  pipx install streamlit
+  echo 'export PATH="/home/fra/.local/bin:$PATH"' >> ~/.bash_profile
 #+end_src
 
 
