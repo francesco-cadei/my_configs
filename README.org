@@ -41,7 +41,6 @@ compare software and service with [[https://alternativeto.net/][https://alternat
        gnome-tweaks \
        seahorse \
        gnome-disk-utility \
-       nautilus \
        mpv \
        eog \
        gnome-characters
