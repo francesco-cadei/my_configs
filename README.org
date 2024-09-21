@@ -263,7 +263,7 @@ install specific package for thinkpad's fan:
 
 ** F-Droid, installs:
 - Olauncher
-- Syncthing, Orgzily
+- Syncthing, Orgzily Revived
 - RiMusic, Tuta, Silence
 - LibreTorrent, VLC
 - Librera FD
@@ -275,7 +275,6 @@ install specific package for thinkpad's fan:
 - Firefox
 - Maps, Translate
 - Beats
-- Habitica
 - WhatsApp, Instagram
 
 
