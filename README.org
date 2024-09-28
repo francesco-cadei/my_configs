@@ -216,6 +216,8 @@ inside emacs with =C-x C-d=.
 #+begin_src bash
   pipx install streamlit
   echo 'export PATH="/home/fra/.local/bin:$PATH"' >> ~/.bash_profile
+
+  curl -fsSL https://deno.land/install.sh | sh
 #+end_src
 
 
@@ -262,11 +264,11 @@ install specific package for thinkpad's fan:
 
 
 ** F-Droid, installs:
-- Olauncher
+- Olauncher Clutter Free
 - Syncthing, Orgzily Revived
 - RiMusic, Tuta, Silence
 - LibreTorrent, VLC
-- Librera FD
+- Librera FD, Aegis
 - Aurora Store
 
 
