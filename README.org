@@ -205,19 +205,15 @@ inside emacs with =C-x C-d=.
 #+end_src
 
 
-**** python
-#+begin_src bash
-  sudo apt install pipx
-  pipx install python-lsp-server
-#+end_src
-
-
 **** mp
 #+begin_src bash
-  pipx install streamlit
+  sudo apt install pipx
+  pipx install python-lsp-server streamlit
   echo 'export PATH="/home/fra/.local/bin:$PATH"' >> ~/.bash_profile
 
   curl -fsSL https://deno.land/install.sh | sh
+  sudo apt install npm
+  npm install -g typescript-language-server typescript
 #+end_src
 
 
