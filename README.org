@@ -264,16 +264,15 @@ install specific package for thinkpad's fan:
 - Syncthing, Orgzily Revived
 - RiMusic, Tuta, Silence
 - LibreTorrent, VLC
-- Librera FD, Aegis
+- Book's Story, Aegis
 - Aurora Store
 
 
 ** Aurora Store, installs:
-- Bitwarden, PosteID, Wise
+- Bitwarden, PosteID, Wise, Beats
 - Firefox
 - Maps, Translate
-- Beats
-- WhatsApp, Instagram
+- Instagram, WhatsApp
 
 
 *** Firefox extensions
@@ -286,3 +285,4 @@ install specific package for thinkpad's fan:
 - OpenBoard
 - Syncthing
 - Aegis
+- Aves Libre
