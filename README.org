@@ -168,6 +168,8 @@ test privacy with [[https://browserleaks.com/][https://browserleaks.com/]]
        hunspell-en-us \
        hunspell-it \
        ripgrep \
+       sox \
+       mpg123 \
        libtool-bin \
        libvterm-dev
 #+end_src
