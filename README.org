@@ -43,6 +43,9 @@ compare software and service with [[https://alternativeto.net/][https://alternat
        gnome-disk-utility \
        mpv \
        eog \
+       foliate \
+       transmission \
+       audacity \
        gnome-characters
 #+end_src
 
@@ -113,10 +116,9 @@ write =about:config= in the address bar and set:
 
 
 **** GNOME Shell integration
-- Auto Move Windows
-- Auto Activities
-- Unite
-- Hide Top Bar
+- Auto Move Windows, Auto Activities
+- Unite, Hide Top Bar
+- Bluetooth Quick Connect, Proxy Switcher
 
 
 ** more privacy
@@ -245,7 +247,11 @@ install specific package for thinkpad's fan:
 
 
 ** other stuff
-~sudo apt install libreoffice libreoffice-gnome~
+#+begin_src bash
+  sudo apt install \
+       libreoffice \
+       libreoffice-gnome
+#+end_src
 
 
 * mobile /(or tablet)/
@@ -262,17 +268,14 @@ install specific package for thinkpad's fan:
 ** F-Droid, installs:
 - Olauncher Clutter Free
 - Syncthing, Orgzily Revived
-- RiMusic, Tuta, Silence
-- LibreTorrent, VLC
-- Book's Story, Aegis
-- Aurora Store
+- InnerTune, Tuta, Silence
+- Aegis, Aurora Store
 
 
 ** Aurora Store, installs:
 - Bitwarden, PosteID, Wise, Beats
-- Firefox
 - Maps, Translate
-- Instagram, WhatsApp
+- Firefox, WhatsApp
 
 
 *** Firefox extensions
@@ -284,5 +287,4 @@ install specific package for thinkpad's fan:
 - F-Droid
 - OpenBoard
 - Syncthing
-- Aegis
-- Aves Libre
+- Aegis, Aves Libre
