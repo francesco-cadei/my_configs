@@ -118,11 +118,21 @@ write =about:config= in the address bar and set:
 **** GNOME Shell integration
 - Auto Move Windows, Auto Activities
 - Unite, Hide Top Bar
-- Bluetooth Quick Connect, Proxy Switcher
+- Bluetooth Quick Connect
 
 
 ** more privacy
 still using =gnome-terminal= and =nano=:
+*** macchanger
+run ~sudo apt install macchanger~ and modify
+=/etc/NetworkManager/conf.d/macchanger.conf= to have:
+#+begin_example
+  [device]
+  wifi.scan-rand-mac-address=no
+
+  [connection]
+  wifi.cloned-mac-address=random
+#+end_example
 *** nextdns per so
 run ~sudo apt install systemd-resolved~ and modify
 =/etc/systemd/resolved.conf= to have [[https://my.nextdns.io]] setups
@@ -266,6 +276,9 @@ install specific package for thinkpad's fan:
 - install OpenBoard from F-Droid and disable GBoard
 - uninstall or disable all unused app
 
+** System > Developer options (tap 7 times: About phone > Build nember)
+- setup =Wi-Fi non persistent MAC randomization= to true
+- setup animations to 0.5x
 
 ** F-Droid, installs:
 - Olauncher Clutter Free
