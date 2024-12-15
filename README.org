@@ -283,14 +283,14 @@ install specific package for thinkpad's fan:
 ** F-Droid, installs:
 - Olauncher Clutter Free
 - Syncthing, Orgzily Revived
-- InnerTune, Tuta, Silence
+- RiMusic, Tuta, Silence
 - Aegis, Aurora Store
 
 
 ** Aurora Store, installs:
 - Bitwarden, PosteID, Wise, Beats
 - Maps, Translate
-- Firefox, WhatsApp
+- Firefox, Instagram
 
 
 *** Firefox extensions
