@@ -290,7 +290,7 @@ install specific package for thinkpad's fan:
 ** Aurora Store, installs:
 - Bitwarden, PosteID, Wise, Beats
 - Maps, Translate
-- Firefox, Instagram
+- Firefox, WhatsApp
 
 
 *** Firefox extensions
