@@ -257,6 +257,10 @@ install specific package for thinkpad's fan:
   sudo systemctl enable powertop.service
 #+end_src
 
+*** thermald
+#+begin_src bash
+  sudo apt install thermald
+#+end_src
 
 ** other stuff
 #+begin_src bash
