@@ -219,18 +219,6 @@ inside emacs with =C-x C-d=.
 #+end_src
 
 
-**** mp
-#+begin_src bash
-  sudo apt install pipx
-  pipx install python-lsp-server streamlit
-  echo 'export PATH="/home/fra/.local/bin:$PATH"' >> ~/.bash_profile
-
-  curl -fsSL https://deno.land/install.sh | sh
-  sudo apt install npm
-  npm install -g typescript-language-server typescript
-#+end_src
-
-
 ** power manager
 install specific package for thinkpad's fan:
 #+begin_src bash
@@ -257,10 +245,12 @@ install specific package for thinkpad's fan:
   sudo systemctl enable powertop.service
 #+end_src
 
+
 *** thermald
 #+begin_src bash
   sudo apt install thermald
 #+end_src
+
 
 ** other stuff
 #+begin_src bash
