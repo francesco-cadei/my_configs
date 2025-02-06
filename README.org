@@ -282,7 +282,8 @@ install specific package for thinkpad's fan:
 
 
 ** Aurora Store, installs:
-- Bitwarden, PosteID, Wise, ING Italia
+- Bitwarden, PosteID, Kena Mobile
+- Wise, ING Italia
 - Maps, Translate
 - Firefox, Beats, WhatsApp
 - Meta Horizon
