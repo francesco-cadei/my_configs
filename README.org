@@ -277,7 +277,7 @@ install specific package for thinkpad's fan:
 ** F-Droid, installs:
 - Olauncher Clutter Free
 - Syncthing, Orgzily Revived
-- RiMusic, Tuta, Silence
+- RiMusic, Tuta, Tuta Calendar, Silence
 - Aegis, Aurora Store
 
 
@@ -286,7 +286,7 @@ install specific package for thinkpad's fan:
 - Wise, ING Italia
 - Maps, Translate
 - Firefox, Beats, WhatsApp
-- Meta Horizon
+- Meta Horizon, Audible, Kena Mobile
 
 
 *** Firefox extensions
