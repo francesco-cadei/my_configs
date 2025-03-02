@@ -276,7 +276,7 @@ install specific package for thinkpad's fan:
 
 ** F-Droid, installs:
 - Olauncher Clutter Free
-- Syncthing, Orgzily Revived
+- Syncthing-Fork, Orgzily Revived, Orgro
 - Feeder, RiMusic, Silence
 - Tuta, Tuta Calendar
 - Aegis, Aurora Store
