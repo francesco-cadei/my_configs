@@ -289,7 +289,7 @@ install specific package for thinkpad's fan:
 - Maps, Translate
 - Firefox, Beats, WhatsApp
 - Companion, Meta Horizon, Audible
-- Kena Mobile
+- Arriva MyPay, Kena Mobile
 
 
 *** Firefox extensions
