@@ -279,8 +279,8 @@ install specific package for thinkpad's fan:
 - Olauncher Clutter Free
 - Syncthing-Fork, Orgro, Librera FD
 - Bura, SimpMusic, Orgzily Revived
-- Tuta, Tuta Calendar, Silence
-- Aegis, Aurora Store
+- Tuta, Tuta Calendar, Feeder, Silence
+- Aurora Store, Aegis
 
 
 ** Aurora Store, installs:
@@ -300,5 +300,5 @@ install specific package for thinkpad's fan:
 ** another mobile (backup), installs:
 - F-Droid
 - OpenBoard
-- Syncthing
-- Aegis, Aves Libre
+- Syncthing, Aves Libre
+- Aegis
