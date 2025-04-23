@@ -288,7 +288,7 @@ install specific package for thinkpad's fan:
 - Wise, ING Italia
 - Maps, Translate
 - Firefox, Beats, WhatsApp
-- Companion, Meta Horizon, Audible
+- Companion, Meta Horizon
 - Arriva MyPay, Kena Mobile
 
 
