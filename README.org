@@ -281,20 +281,21 @@ install specific package for thinkpad's fan:
 - Bura, SimpMusic, Orgzily Revived
 - Tuta, Tuta Calendar, Feeder, Silence
 - Aurora Store, Aegis
+- NewPipe
 
 
 ** Aurora Store, installs:
-- Bitwarden, PosteID, Kena Mobile
-- Wise, ING Italia
-- Maps, Translate
+- Play Store, Bitwarden, PosteID
+- Kena Mobile, Trade Republic
 - Firefox, Beats, WhatsApp
-- Companion, Meta Horizon
-- Arriva MyPay, Kena Mobile
+- Maps, Translate
+- Arriva MyPay
+- Companion
 
 
 *** Firefox extensions
 - uBlock Origin
-- Video Background Play Fix
+- ClearURLs
 
 
 ** another mobile (backup), installs:
