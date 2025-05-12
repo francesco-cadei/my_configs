@@ -285,7 +285,7 @@ install specific package for thinkpad's fan:
 
 
 ** Aurora Store, installs:
-- Play Store, Bitwarden, PosteID
+- Play Store, Bitwarden, PosteID, IO
 - Kena Mobile, Trade Republic
 - Firefox, Beats, WhatsApp
 - Maps, Translate
