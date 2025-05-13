@@ -278,7 +278,7 @@ install specific package for thinkpad's fan:
 ** F-Droid, installs:
 - Olauncher Clutter Free
 - Syncthing-Fork, Orgro, Librera FD
-- Bura, SimpMusic, Orgzily Revived
+- SimpMusic, Orgzily Revived
 - Tuta, Tuta Calendar, Feeder, Silence
 - Aurora Store, Aegis
 - NewPipe
@@ -289,7 +289,7 @@ install specific package for thinkpad's fan:
 - Kena Mobile, Trade Republic
 - Firefox, Beats, WhatsApp
 - Maps, Translate
-- Arriva MyPay
+- 3BMeteo, Arriva MyPay
 - Companion
 
 
