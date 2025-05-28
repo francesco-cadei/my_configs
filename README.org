@@ -267,15 +267,15 @@ install specific package for thinkpad's fan:
 - /i use Nokia because of the partnership with [[https://www.ifixit.com/][https://www.ifixit.com/]]/
 - under: Settings > Network & internet > Private DNS; use [[https://nextdns.io/]]
   config
-- with usb cable provide [[https://f-droid.org/][https://f-droid.org/]] apk, install it
-- install OpenBoard from F-Droid and disable GBoard
+- with usb cable provide [[https://f-droid.org/F-Droid.apk][https://f-droid.org/F-Droid.apk]] apk, install it
+- install OpenBoard from F-Droid Basic and disable GBoard
 - uninstall or disable all unused app
 
 ** System > Developer options (tap 7 times: About phone > Build nember)
 - setup =Wi-Fi non persistent MAC randomization= to true
 - setup animations to 0.5x
 
-** F-Droid, installs:
+** F-Droid Basic, installs:
 - Olauncher Clutter Free
 - Syncthing-Fork, Orgro, Librera FD
 - Tuta, Tuta Calendar, Silence
@@ -299,7 +299,7 @@ install specific package for thinkpad's fan:
 
 
 ** another mobile (backup), installs:
-- F-Droid
+- F-Droid Basic
 - OpenBoard
 - Syncthing, Aves Libre
 - Aegis
