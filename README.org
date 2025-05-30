@@ -283,6 +283,7 @@ install specific package for thinkpad's fan:
 - SimpMusic, Orgzily Revived
 - Aurora Store, Aegis
 - NewPipe, Feeder
+- AudioRecorder
 
 
 ** Aurora Store, installs:
