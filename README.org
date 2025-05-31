@@ -277,7 +277,7 @@ install specific package for thinkpad's fan:
 - setup animations to 0.5x
 
 ** F-Droid Basic, installs:
-- Olauncher Clutter Free, ReTerminal
+- Olauncher Clutter Free, Termux
 - Syncthing-Fork, Orgro, Librera FD
 - Tuta, Tuta Calendar, Silence
 - SimpMusic, Orgzily Revived
