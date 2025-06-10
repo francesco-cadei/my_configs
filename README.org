@@ -280,7 +280,7 @@ install specific package for thinkpad's fan:
 - Olauncher Clutter Free, Termux
 - Syncthing-Fork, Orgro, Librera FD
 - Tuta, Tuta Calendar, Silence
-- SimpMusic, Orgzily Revived
+- Kreate, Orgzily Revived
 - Aurora Store, Aegis
 - NewPipe, Feeder
 - AudioRecorder
