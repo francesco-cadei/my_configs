@@ -278,12 +278,12 @@ install specific package for thinkpad's fan:
 
 ** F-Droid Basic, installs:
 - Olauncher Clutter Free
-- Syncthing-Fork, Orgro, Librera FD
+- Syncthing-Fork, Librera FD, Orgro
 - Tuta, Tuta Calendar, Silence
 - Kreate, Orgzily Revived
-- AudioRecorder, Audile
 - Aurora Store, Aegis
 - NewPipe, Feeder
+- AudioRecorder
 
 
 ** Aurora Store, installs:
