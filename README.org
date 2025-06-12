@@ -105,7 +105,7 @@ in settings set:
 
 *** advanced privacy (compromises some services)
 write =about:config= in the address bar and set:
-- =media.peerconnection.enabled= to false (now to true)
+- =media.peerconnection.enabled= to false
 
 
 *** add-ons
