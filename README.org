@@ -268,7 +268,7 @@ install specific package for thinkpad's fan:
 - under: Settings > Network & internet > Private DNS; use [[https://nextdns.io/]]
   config
 - with usb cable provide [[https://f-droid.org/F-Droid.apk][https://f-droid.org/F-Droid.apk]] apk, install it
-- install OpenBoard from F-Droid Basic and disable GBoard
+- install HeliBoard from F-Droid Basic and disable GBoard
 - uninstall or disable all unused app
 
 ** System > Developer options (tap 7 times: About phone > Build nember)
@@ -276,22 +276,20 @@ install specific package for thinkpad's fan:
 - setup animations to 0.5x
 
 ** F-Droid Basic, installs:
-- Olauncher Clutter Free
-- Syncthing-Fork, Librera FD, Orgro
-- Tuta, Tuta Calendar, Silence
-- Kreate, Orgzily Revived
-- Aurora Store, Aegis
-- NewPipe, Feeder
-- AudioRecorder
+- Olauncher, Kreate, Orgzily Revived
+- Syncthing-Fork, Orgro, Librera FD
+- SpamBlocker, Tuta Calendar, Tuta
+- Aegis, AudioRecorder, Aurora Store
+- Feeder, NewPipe
 
 
 ** Aurora Store, installs:
 - Play Store, Bitwarden, PosteID
-- Kena Mobile, Trade Republic
-- Firefox, Beats, WhatsApp
-- IO, Arriva MyPay, 3BMeteo
+- Trade Republic, Kena Mobile
+- Firefox, WhatsApp, Beats
+- 3BMeteo, IO, Arriva MyPay
+- Lichess beta, Companion
 - Maps, Translate
-- Companion
 
 
 *** Firefox extensions
@@ -300,7 +298,5 @@ install specific package for thinkpad's fan:
 
 
 ** another mobile (backup), installs:
-- F-Droid Basic
-- OpenBoard
+- F-Droid Basic, HeliBoard, Aegis
 - Syncthing, Aves Libre
-- Aegis
