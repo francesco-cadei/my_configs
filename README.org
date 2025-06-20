@@ -83,10 +83,11 @@ create a  =~/.config/mpv/mpv.conf= and add =fs=yes=
 
 
 ** browser
-~sudo apt install firefox-esr~ then write =about:config= in the address bar and
-set:
+~sudo apt install firefox-esr~
+then write =about:config= in the address bar and set:
 - =network.security.esni.enabled= to true
 - =extensions.screenshots.disabled= to true
+- =media.peerconnection.enabled= to false
 
 
 in settings set:
@@ -103,11 +104,6 @@ in settings set:
 - DNS secure: MaxProtection - NextDNS
 
 
-*** advanced privacy (compromises some services)
-write =about:config= in the address bar and set:
-- =media.peerconnection.enabled= to false
-
-
 *** add-ons
 - uBlock Origin
 - ClearURLs
@@ -119,6 +115,15 @@ write =about:config= in the address bar and set:
 - Auto Move Windows, Auto Activities
 - Unite, Hide Top Bar
 - Bluetooth Quick Connect
+
+
+** private-t
+to have a vanilla config of firefox,
+write =about:profiles= in the address bar and create a new profile.
+
+
+to make it private by default in settings set:
+- history: custom, always use private browsing mode
 
 
 ** more privacy
@@ -133,6 +138,8 @@ run ~sudo apt install macchanger~ and modify
   [connection]
   wifi.cloned-mac-address=random
 #+end_example
+
+
 *** nextdns per so
 run ~sudo apt install systemd-resolved~ and modify
 =/etc/systemd/resolved.conf= to have [[https://my.nextdns.io]] setups
