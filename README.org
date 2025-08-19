@@ -220,8 +220,8 @@ test privacy with [[https://browserleaks.com/][https://browserleaks.com/]]
 **** java
 #+begin_src bash
   sudo apt install \
-       openjdk-17-jdk \
-       openjdk-17-source
+       openjdk-25-jdk \
+       openjdk-25-source
 #+end_src
 
 
