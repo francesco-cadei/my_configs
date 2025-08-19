@@ -294,8 +294,9 @@ install specific package for thinkpad's fan:
 - Trade Republic, Kena Mobile
 - Firefox, WhatsApp, Beats
 - 3BMeteo, IO, Arriva MyPay
-- Lichess beta, Companion
+- Lichess, Companion
 - Maps, Translate
+- Aruba PEC
 
 
 *** Firefox extensions
