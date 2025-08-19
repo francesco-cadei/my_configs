@@ -113,8 +113,7 @@ in settings set:
 
 **** GNOME Shell integration
 - Auto Move Windows, Auto Activities
-- Unite, Hide Top Bar
-- Bluetooth Quick Connect
+- Hide Top Bar, No Titlebar When Maximized
 
 
 ** private-t
@@ -148,6 +147,7 @@ run ~sudo apt install systemd-resolved~ and modify
 *** privoxy-tor
 run ~sudo apt install privoxy tor~ and modify =/etc/privoxy/config= to have
 =forward-socks5t=
+
 under: Settings > Network > Network Proxy > Manual; set:
 #+begin_example
   HTTP: 127.0.0.1 8118
@@ -194,8 +194,6 @@ test privacy with [[https://browserleaks.com/][https://browserleaks.com/]]
 
 
 ~git clone git@github.com:francesco-cadei/.emacs.d.git~
-you can now ~sudo apt autoremove --purge gnome-terminal~ and use terminal
-inside emacs with =C-x C-d=.
 
 
 *** languages
