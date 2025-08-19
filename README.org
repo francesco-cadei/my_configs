@@ -44,6 +44,7 @@ compare software and service with [[https://alternativeto.net/][https://alternat
        mpv \
        eog \
        foliate \
+       audacity \
        transmission \
        gnome-characters
 #+end_src
