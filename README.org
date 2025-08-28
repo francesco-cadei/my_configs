@@ -285,8 +285,8 @@ install specific package for thinkpad's fan:
 - Olauncher, Kreate, Orgzily Revived
 - Syncthing-Fork, Orgro, Librera FD
 - SpamBlocker, Tuta Calendar, Tuta
-- AudioRecorder, Audile
-- Feeder, NewPipe
+- Calculator++, AudioRecorder
+- Feeder, NewPipe, Audile
 - Aegis, Aurora Store
 
 
