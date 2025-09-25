@@ -288,6 +288,7 @@ install specific package for thinkpad's fan:
 - Calculator++, AudioRecorder
 - Feeder, NewPipe, Audile
 - Aegis, Aurora Store
+- ShowCase
 
 
 ** Aurora Store, installs:
