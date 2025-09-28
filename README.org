@@ -282,13 +282,12 @@ install specific package for thinkpad's fan:
 - setup animations to 0.5x
 
 ** F-Droid Basic, installs:
-- Olauncher, Kreate, Orgzily Revived
+- Olauncher, NouTube, Orgzily Revived
 - Syncthing-Fork, Orgro, Librera FD
 - SpamBlocker, Tuta Calendar, Tuta
 - Calculator++, AudioRecorder
-- Feeder, NewPipe, Audile
+- Feeder, ShowCase, Audile
 - Aegis, Aurora Store
-- ShowCase
 
 
 ** Aurora Store, installs:
