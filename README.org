@@ -282,7 +282,7 @@ install specific package for thinkpad's fan:
 - setup animations to 0.5x
 
 ** F-Droid Basic, installs:
-- Olauncher, NouTube, Orgzily Revived
+- Olauncher, Orgzily Revived
 - Syncthing-Fork, Orgro, Librera FD
 - SpamBlocker, Tuta Calendar, Tuta
 - Calculator++, AudioRecorder
@@ -292,7 +292,7 @@ install specific package for thinkpad's fan:
 
 ** Aurora Store, installs:
 - Play Store, Bitwarden, PosteID
-- Trade Republic, Kena Mobile
+- Trade Republic, Tidal, Kena Mobile
 - Firefox, WhatsApp, Beats
 - 3BMeteo, IO, Arriva MyPay
 - Lichess, Companion
@@ -303,6 +303,7 @@ install specific package for thinkpad's fan:
 *** Firefox extensions
 - uBlock Origin
 - ClearURLs
+- Video Background Play Fix
 
 
 ** another mobile (backup), installs:
