@@ -292,7 +292,7 @@ install specific package for thinkpad's fan:
 
 ** Aurora Store, installs:
 - Play Store, Bitwarden, PosteID
-- Trade Republic, Tidal, Kena Mobile
+- Trade Republic, Kena Mobile
 - Firefox, WhatsApp, Beats
 - 3BMeteo, IO, Arriva MyPay
 - Lichess, Companion
@@ -304,6 +304,7 @@ install specific package for thinkpad's fan:
 - uBlock Origin
 - ClearURLs
 - Video Background Play Fix
+- Youtube audio_only
 
 
 ** another mobile (backup), installs:
