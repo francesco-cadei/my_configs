@@ -282,7 +282,7 @@ install specific package for thinkpad's fan:
 - setup animations to 0.5x
 
 ** F-Droid Basic, installs:
-- Olauncher, Orgzily Revived
+- Olauncher, OpenTune, Orgzily Revived
 - Syncthing-Fork, Orgro, Librera FD
 - SpamBlocker, Tuta Calendar, Tuta
 - Calculator++, AudioRecorder
@@ -304,7 +304,6 @@ install specific package for thinkpad's fan:
 - uBlock Origin
 - ClearURLs
 - Video Background Play Fix
-- Youtube audio_only
 
 
 ** another mobile (backup), installs:
