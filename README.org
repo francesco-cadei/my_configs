@@ -296,7 +296,7 @@ install specific package for thinkpad's fan:
 - Firefox, WhatsApp, Beats
 - 3BMeteo, IO, CieID, Arriva MyPay
 - Maps, Translate
-- Aruba PEC, Lichess
+- Aruba PEC
 
 
 *** Firefox extensions
