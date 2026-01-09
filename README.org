@@ -310,5 +310,5 @@ install specific package for thinkpad's fan:
 
 ** tablet, installs:
 - F-Droid Basic, Aurora Store, HeliBoard
-- Firefox (and extensions), Beats
-- Librera FD, NewPipe
+- Firefox (and extensions), Beats, NewPipe
+- LibreTorret, Librera FD
