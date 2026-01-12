@@ -312,4 +312,4 @@ install specific package for thinkpad's fan:
 - Olaucher, HeliBoard, Beats
 - F-Droid Basic, Aurora Store
 - Firefox (and extensions), LibreTorrent
-- MuPDF mini, NewPipe, mpv-android
+- Librera FD, mpv, NewPipe, MuPDF mini
