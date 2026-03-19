@@ -281,9 +281,9 @@ install specific package for thinkpad's fan:
 ** F-Droid Basic, installs:
 - Olauncher, OpenTune, Orgzily Revived
 - Syncthing-Fork, SpamBlocker, NewPipe
-- Tuta Calendar, Tuta, Calculator++,
+- Tuta Calendar, Tuta, Calculator++
 - Aegis, AudioRecorder, Audile
-- Feeder, ShowCase
+- Feeder, ShowCase, Aiyo
 - Aurora Store
 
 
