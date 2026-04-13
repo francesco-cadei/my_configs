@@ -302,13 +302,8 @@ install specific package for thinkpad's fan:
 - Video Background Play Fix
 
 
-** another mobile (backup), installs:
-- F-Droid Basic, HeliBoard, Aegis
-- Syncthing, Aves Libre
-
-
 ** tablet, installs:
-- Olaucher, HeliBoard, Beats
+- Olaucher, HeliBoard, Aegis, Beats
 - F-Droid Basic, Aurora Store
 - Firefox (and extensions), LibreTorrent
 - Librera FD, mpv, NewPipe, MuPDF mini
