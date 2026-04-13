@@ -280,7 +280,7 @@ install specific package for thinkpad's fan:
 
 ** F-Droid Basic, installs:
 - Olauncher, OpenTune, Orgzily Revived
-- Syncthing-Fork, SpamBlocker, NewPipe
+- BasicSync, SpamBlocker, NewPipe
 - Tuta Calendar, Tuta, Calculator++
 - Aegis, AudioRecorder, Audile
 - Feeder, ShowCase, Aiyo
@@ -303,8 +303,8 @@ install specific package for thinkpad's fan:
 
 
 ** tablet, installs:
-- Olaucher, HeliBoard, Aegis, Beats
-- F-Droid Basic, Aurora Store
+- Olaucher, HeliBoard, BasicSync, Aegis
+- F-Droid Basic, Aurora Store, Beats
 - Firefox (and extensions), LibreTorrent
 - Librera FD, mpv, NewPipe, MuPDF mini
 - Udemy, Aiyo
