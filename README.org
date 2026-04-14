@@ -304,8 +304,8 @@ install specific package for thinkpad's fan:
 
 ** tablet, installs:
 - Olaucher, HeliBoard, BasicSync, Aegis
-- F-Droid Basic, Aurora Store, Beats
-- Firefox (and extensions), LibreTorrent
+- F-Droid Basic, Aurora Store, Saber
+- Firefox (and extensions), Aiyo, LibreTorrent
 - Librera FD, mpv, NewPipe, MuPDF mini
 - Bitwarden, Tuta Calendar, Tuta
-- Udemy, Aiyo
+- Udemy, Beats
