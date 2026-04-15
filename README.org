@@ -289,11 +289,11 @@ install specific package for thinkpad's fan:
 
 ** Aurora Store, installs:
 - Play Store, Bitwarden, PosteID
-- Kena Mobile, Trade Republic, Decathlon, Famila Nord
-- Firefox, WhatsApp, Beats
-- 3BMeteo, IO, CieID, Arriva MyPay, ATB Mobile
+- Kena Mobile, Trade Republic, Decathlon
+- Firefox, WhatsApp, Beats, 3BMeteo
+- IO, CieID, Arriva MyPay, ATB Mobile
 - Maps, Translate
-- Aruba PEC
+- Aruba PEC, Famila Nord, coffee cApp
 
 
 *** Firefox extensions
