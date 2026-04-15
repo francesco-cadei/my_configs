@@ -289,7 +289,7 @@ install specific package for thinkpad's fan:
 
 ** Aurora Store, installs:
 - Play Store, Bitwarden, PosteID
-- Trade Republic, Kena Mobile, Decathlon
+- Kena Mobile, Trade Republic, Decathlon, Famila Nord
 - Firefox, WhatsApp, Beats
 - 3BMeteo, IO, CieID, Arriva MyPay, ATB Mobile
 - Maps, Translate
