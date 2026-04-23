@@ -282,8 +282,8 @@ install specific package for thinkpad's fan:
 - Olauncher, OpenTune, Orgzily Revived
 - BasicSync, SpamBlocker, NewPipe
 - Tuta Calendar, Tuta, Calculator++
-- Aegis, AudioRecorder, Audile
-- Feeder, ShowCase, Aiyo
+- Aegis Authenticator, Audio Recorder, Audile
+- Feeder, ShowCase, Aiyo, Loop Habit Tracker
 - Aurora Store
 
 
@@ -303,7 +303,7 @@ install specific package for thinkpad's fan:
 
 
 ** tablet, installs:
-- Olaucher, HeliBoard, BasicSync, Aegis
+- Olaucher, HeliBoard, BasicSync, Aegis Authenticator
 - F-Droid Basic, Aurora Store, Saber
 - Firefox (and extensions), Aiyo, LibreTorrent
 - Librera FD, mpv, NewPipe, MuPDF mini
