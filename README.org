@@ -282,7 +282,7 @@ install specific package for thinkpad's fan:
 - Olauncher, OpenTune, Orgzily Revived
 - BasicSync, SpamBlocker, NewPipe
 - Tuta Calendar, Tuta, Calculator++
-- Aegis Authenticator, Audio Recorder, Audile
+- Aegis Authenticator, Audio Recorder
 - Feeder, ShowCase, Aiyo, Loop Habit Tracker
 - Aurora Store
 
