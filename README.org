@@ -280,7 +280,7 @@ install specific package for thinkpad's fan:
 
 ** F-Droid Basic, installs:
 - Olauncher, OpenTune, Orgzily Revived
-- BasicSync, SpamBlocker, NewPipe
+- BasicSync, SpamBlocker, Fennec, NewPipe
 - Tuta Calendar, Tuta, Calculator++
 - Aegis Authenticator, Audio Recorder
 - Feeder, ShowCase, Aiyo, Loop Habit Tracker
@@ -288,15 +288,14 @@ install specific package for thinkpad's fan:
 
 
 ** Aurora Store, installs:
-- Play Store, Bitwarden, PosteID
-- Kena Mobile, Trade Republic, Decathlon
-- Firefox, WhatsApp, Beats, 3BMeteo
-- IO, CieID, Arriva MyPay, ATB Mobile
-- Maps, Translate
-- Aruba PEC, Famila Nord, coffee cApp
+- Play Store, Bitwarden, Kena Mobile
+- Aruba PEC, Trade Republic
+- WhatsApp, 3BMeteo, IO, CieID
+- Maps, Translate, Arriva MyPay, ATB Mobile
+- Decathlon, Famila Nord, PosteID, coffee cApp
 
 
-*** Firefox extensions
+*** Fennec extensions
 - uBlock Origin
 - ClearURLs
 - Video Background Play Fix
@@ -305,7 +304,7 @@ install specific package for thinkpad's fan:
 ** tablet, installs:
 - Olaucher, HeliBoard, BasicSync, Aegis Authenticator
 - F-Droid Basic, Aurora Store, Saber
-- Firefox (and extensions), Aiyo, LibreTorrent
+- Fennec (and extensions), Aiyo, LibreTorrent
 - Librera FD, mpv, NewPipe, MuPDF mini
 - Bitwarden, Tuta Calendar, Tuta
-- Udemy, Beats
+- Udemy
