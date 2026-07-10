@@ -292,7 +292,7 @@ install specific package for thinkpad's fan:
 - Aruba PEC, Trade Republic
 - WhatsApp, 3BMeteo, IO, CieID
 - Maps, Translate, Arriva MyPay, ATB Mobile
-- Decathlon, Famila Nord, PosteID, coffee cApp
+- PosteID, Decathlon
 
 
 *** Fennec extensions
