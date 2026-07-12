@@ -197,9 +197,7 @@ test privacy with [[https://browserleaks.com/][https://browserleaks.com/]]
   sudo apt install \
        texlive \
        texlive-pictures \
-       texlive-publisher \
-       texlive-pictures \
-       dvipng
+       texlive-publisher
 #+end_src
 
 
