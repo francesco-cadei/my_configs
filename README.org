@@ -277,7 +277,7 @@ install specific package for thinkpad's fan:
 - BasicSync, SpamBlocker, Fennec, NewPipe
 - Tuta Calendar, Tuta, OpenCalc, BetterCounter
 - Aegis Authenticator, Audio Recorder
-- Feeder, ShowCase, Aiyo, Loop Habit Tracker
+- ShowCase, Aiyo, Loop Habit Tracker
 - Aurora Store
 
 
