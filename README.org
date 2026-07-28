@@ -111,7 +111,7 @@ in settings set:
 
 **** GNOME Shell integration
 - Auto Move Windows, Auto Activities
-- Hide Top Bar, No Titlebar When Maximized
+- Hide Topbar, No Titlebar When Maximized
 
 
 ** private-t
