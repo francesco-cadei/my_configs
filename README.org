@@ -277,7 +277,7 @@ install specific package for thinkpad's fan:
 - BasicSync, SpamBlocker, Fennec, NewPipe
 - Tuta Calendar, Tuta, OpenCalc, BetterCounter
 - Aegis Authenticator, Audio Recorder
-- ShowCase, Aiyo, Loop Habit Tracker
+- Aiyo, Loop Habit Tracker
 - Aurora Store
 
 
@@ -285,7 +285,8 @@ install specific package for thinkpad's fan:
 - Play Store, Bitwarden, Kena Mobile
 - Aruba PEC, Trade Republic
 - WhatsApp, 3BMeteo, IO, CieID
-- Maps, Translate, Arriva MyPay, ATB Mobile
+- Maps, Translate, IMDb
+- Arriva MyPay, ATB Mobile
 - PosteID, Decathlon
 
 
