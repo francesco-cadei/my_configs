@@ -284,7 +284,7 @@ install specific package for thinkpad's fan:
 - Play Store, Bitwarden, Kena Mobile
 - Aruba PEC, Trade Republic
 - WhatsApp, 3BMeteo, IO, CieID
-- Maps, Translate, IMDb
+- Maps, Translate, IMDb, Google Earth
 - Arriva MyPay, ATB Mobile
 - PosteID, Decathlon
 
