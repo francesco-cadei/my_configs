@@ -276,12 +276,11 @@ install specific package for thinkpad's fan:
 - BasicSync, SpamBlocker, Fennec, NewPipe
 - Tuta Calendar, Tuta, OpenCalc
 - Aegis Authenticator, Audio Recorder
-- Aiyo, Loop Habit Tracker
-- Aurora Store
+- Loop Habit Tracker, Aurora Store
 
 
 ** Aurora Store, installs:
-- Play Store, Bitwarden, Kena Mobile
+- Play Store, Bitwarden, Claude, Kena Mobile
 - Aruba PEC, Trade Republic
 - WhatsApp, 3BMeteo, IO, CieID
 - Maps, Translate, IMDb, Google Earth
@@ -298,7 +297,7 @@ install specific package for thinkpad's fan:
 ** tablet, installs:
 - Olaucher, HeliBoard, BasicSync, Aegis Authenticator
 - F-Droid Basic, Aurora Store, Orgzily Revived
-- Fennec (and extensions), Aiyo, LibreTorrent
+- Fennec (and extensions), Claude, LibreTorrent
 - Librera FD, mpv, NewPipe, MuPDF mini
 - Bitwarden, Tuta Calendar, Tuta
-- Maps, Saber, Udemy
+- Google Earth, Maps, Saber, Udemy
