@@ -265,6 +265,7 @@ install specific package for thinkpad's fan:
   config
 - with usb cable provide [[https://f-droid.org/F-Droid.apk][https://f-droid.org/F-Droid.apk]] apk, install it
 - install HeliBoard from F-Droid Basic and disable GBoard
+  (new dict at https://codeberg.org/Helium314/aosp-dictionaries)
 - uninstall or disable all unused app
 
 ** System > Developer options (tap 7 times: About phone > Build nember)
