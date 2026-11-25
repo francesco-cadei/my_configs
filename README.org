@@ -273,8 +273,8 @@ install specific package for thinkpad's fan:
 - setup animations to 0.5x
 
 ** F-Droid Basic, installs:
-- Olauncher, OpenTune, Orgzily Revived
-- BasicSync, SpamBlocker, Fennec, NewPipe
+- Olauncher, Marmalade STT, Orgzly Revived
+- BasicSync, SpamBlocker, Fennec, NewPipe, OpenTune
 - Tuta Calendar, Tuta, OpenCalc
 - Aegis Authenticator, Audio Recorder
 - Loop Habit Tracker, Aurora Store
@@ -296,9 +296,10 @@ install specific package for thinkpad's fan:
 
 
 ** tablet, installs:
-- Olaucher, HeliBoard, BasicSync, Aegis Authenticator
-- F-Droid Basic, Aurora Store, Orgzily Revived
+- Olaucher, HeliBoard, Marmalade STT, BasicSync
+- F-Droid Basic, Aurora Store, Orgzly Revived
 - Fennec (and extensions), Claude, LibreTorrent
 - Librera FD, mpv, NewPipe, MuPDF mini
 - Bitwarden, Tuta Calendar, Tuta
 - Google Earth, Maps, Saber, Udemy
+- Aegis Authenticator
